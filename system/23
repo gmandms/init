@@ -1,0 +1,2 @@
+To connect in a graphical session, we must make a logout of the user in which we are located and then select our new user.
+To connect via ssh we must use the commands login or ssh.
